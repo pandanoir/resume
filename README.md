@@ -28,6 +28,7 @@
 
 - Hi-Timer の開発 (2021年5月)
   - ルービックキューブ競技用のタイマーアプリケーション
+  - [GitHubリポジトリ](https://github.com/pandanoir/hi-timer)
 
 ## 登壇
 - UIT meetup vol. 12 (2021年3月)
