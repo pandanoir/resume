@@ -34,11 +34,14 @@
 - UIT meetup vol. 12 (2021年3月)
 
 ## 記事執筆
+
+- [関数の多重下請けをやめよう。単一責任の原則と関数の"責任"について](https://zenn.dev/pandanoir/articles/avoid-nested-delegation-function-responsibility) (2025年1月)
 - [package by feature のススメ](https://zenn.dev/pandanoir/articles/d74d317f2b3caf) (2023年10月)
 - [なんで JavaScript ではなく TypeScript を使うのか?](https://zenn.dev/pandanoir/articles/9aceaf97681980) (2023年5月)
 - [LINE NEWS フロントエンドの自動テストの改善](https://engineering.linecorp.com/ja/blog/frontend-testing-automation-line-news) (2023年2月)
 - [&lt;div/&gt; のレンダリングから始める React 学び直し](https://zenn.dev/pandanoir/articles/19dea2fb3daadb) (2022年12月)
 
+ほか [Panda Noir(個人ブログ)](https://www.pandanoir.info/) にて多数執筆
 
 ## スキル
 
