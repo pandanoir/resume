@@ -46,8 +46,13 @@
 ## スキル
 
 - ウェブフロントエンド開発
-  - TypeScript, React, Vue.js, Next.js
-  - Git, CircleCI
+  - TypeScript, React, Vue.js, Next.js, remix
+  - CSS, Tailwind CSS
+  - eslint, prettier, biome
+  - storybook
+  - jest, msw, testing-library, puppeteer
+- Git
+- CircleCI, GitHub Actions
 
 特に得意なのはウェブフロントエンドですが、サーバー開発の経験もあります。また、情報学科を卒業しているのでコンピュータサイエンスを一通り修めています。
 
